@@ -1,0 +1,5 @@
+Based off of graduation project, after months of work it has been published 
+to the journal named "Advances in Knowledge-Based Systems, Data Science, and Cybersecurity".
+
+link: https://cybersecurityjournal.info/archive/deep-learning-based-detection-of-eye-conditions-using-external-eye-images
+DOI: https://dx.doi.org/10.54364/cybersecurityjournal.2026.3229
